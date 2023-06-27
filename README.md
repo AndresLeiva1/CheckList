@@ -1,0 +1,2 @@
+# CheckList
+Housekeeping Aplicaciones Wintel
